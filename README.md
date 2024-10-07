@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arthco14
 - 👀 I’m interested in video-games
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning html,java and css
 - 😄 Pronouns: he/him
 
 About me : for now: [BTS SIO]
